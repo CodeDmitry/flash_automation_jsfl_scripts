@@ -1,2 +1,2 @@
 # flash_automation_jsfl_scripts
-A collection of independant jsfl scripts compatible with Adobe Flash CS3
+A collection of self-written self-contained jsfl scripts compatible with Adobe Flash CS3.
